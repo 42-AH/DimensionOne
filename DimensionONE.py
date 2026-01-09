@@ -43,7 +43,7 @@ opt_sel = 0
 can_continue = False
 mouse_locked = False
 
-ENEMY_CHAR = '●'
+ENEMY_CHAR = '웃'
 HEALTH_CHAR = '+'
 
 menu_buttons = []
@@ -775,3 +775,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
